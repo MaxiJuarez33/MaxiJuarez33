@@ -1,10 +1,10 @@
 ## Hi, I'm Maxi 👋
 
-Senior Software Engineer · Product-Focused · Full-Cycle
+Backend Engineer · Product-Focused · Full-Cycle
 
 I build **real software products end-to-end**, with a strong focus on **architecture, clarity and fast delivery**.
 
-I have **7+ years programming**, working across backend systems, native applications and complete products — from idea to production.
+I have **4+ years programming**, working across backend systems, native applications and complete products — from idea to production.
 
 ### What I do best
 - Design and implement **backend systems and APIs**
